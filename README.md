@@ -1,8 +1,31 @@
 # **go-colorful-logging**
 
-A package for colorful logging output, for Go.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/alper-dalkiran/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/aalperdalkiran)
+![HitCount](https://hits.dwyl.com/adalkiran/go-colorful-logging.svg?style=flat-square)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-TODO!
+A simple Go library for colorful logging output.
+
+## **WHY THIS PROJECT?**
+
+This project is a spin-off of my [WebRTC Nuts and Bolts
+](https://github.com/adalkiran/webrtc-nuts-and-bolts) project's logging part. In the main project, a logging mechanism which supports different colored outputs and showing logger part name (e.g. APP, WS, DTLS, SRTP, etc...) was needed.
+
+## **INSTALLATION**
+
+```sh
+go get github.com/adalkiran/go-colorful-logging
+```
+
+## **EXAMPLE OUTPUT**
+
+An output screenshoot from [WebRTC Nuts and Bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) project, which the same logging system applied on:
+
+![An output screenshoot from WebRTC Nuts and Bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts/raw/main/docs/images/01-07-backend-initial-output.png)
+## **EXAMPLE**
+
+TODO: Coming soon, in progress...
 
 ## **LICENSE**
 
