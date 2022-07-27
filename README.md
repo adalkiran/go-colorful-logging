@@ -25,7 +25,9 @@ An output screenshot from [WebRTC Nuts and Bolts](https://github.com/adalkiran/w
 ![An output screenshot from WebRTC Nuts and Bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts/raw/main/docs/images/01-07-backend-initial-output.png)
 ## **EXAMPLE**
 
-TODO: Coming soon, in progress...
+You can find example projects made using go-colorful-logging and [Inventa](https://github.com/adalkiran/go-inventa) at [https://github.com/adalkiran/inventa-examples](https://github.com/adalkiran/inventa-examples).
+
+In this inventa-examples repo, there are multiple projects. The ones which are developed using Go, use go-colorful-logging library for logging.
 
 ## **LICENSE**
 
